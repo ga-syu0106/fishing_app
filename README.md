@@ -9,7 +9,7 @@
 | nickname           | string  | null: false |
 | municipality_id    | integer | null: false |
 | age                | integer | null: false |
-| history            | integer | null: false |
+| histroy            | integer | null: false |
 | style_id           | integer | null: false |
 | profile            | text    | null: false |
 
